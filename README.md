@@ -1,6 +1,6 @@
 # sachettv-privacy
 
-**Privacy Policy**
+## **Privacy Policy**
 
 Akash Kumar Singh has built the Sachet TV app as a Free app. This Service is provided by Akash Kumar Singh at no cost and is intended for use as is.
 
@@ -8,7 +8,7 @@ This page is used to inform visitors regarding my policies with the collection, 
 
 The terms used in this Privacy Policy have the same meanings as in Terms and Conditions, which are accessible at Sachet TV unless otherwise defined in this Privacy Policy.
 
-**Log Data**
+### **Log Data**
 
 I want to inform you that I may employ third-party companies and individuals to:
 
@@ -18,15 +18,15 @@ Perform Service-related services; or
 Assist me in analyzing how my Service is used.
 I want to inform users of this Service that these third parties will have access to their Personal Information. The reason is to perform the tasks assigned to them on my behalf. However, they will be obligated not to disclose or use the information for any other purpose.
 
-**Security**
+### **Security**
 
 I value your trust in providing me your Personal Information, thus I am striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-**Changes to This Privacy Policy**
+### **Changes to This Privacy Policy**
 
 I may update this Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page. This policy is effective as of 2023-08-29.
 
-**Terms & Conditions**
+## **Terms & Conditions**
 
 By downloading or using the app, these terms will automatically apply to you – you should make sure therefore that you read them carefully before using the app.
 
@@ -42,6 +42,6 @@ At some point, I may wish to update the app. The app is currently available on i
 
 I may also wish to stop providing the app, and may terminate use of it at any time without giving notice of termination to you. Unless I tell you otherwise, upon any termination, (a) the rights and licenses granted to you in these terms will end; (b) you must stop using the app, and (if needed) delete it from your device.
 
-**Changes to This Terms and Conditions**
+### **Changes to This Terms and Conditions**
 
 I may update Terms and Conditions from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Terms and Conditions on this page. These terms and conditions are effective as of 2023-08-29.
